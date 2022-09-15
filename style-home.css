@@ -7,14 +7,12 @@ body {
     width: 100%;
 }
 
+
 .principal {
     background: #ccc5c5 ;
     padding: 30px;
 }
-   
-.titulo-principal {
-    padding-left: 20px;
-}
+
 
 .titulo-centralizado {
     text-align: center;
